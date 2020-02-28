@@ -2,7 +2,7 @@
 template: page
 title: Values
 slug: values
-draft: true
+draft: false
 ---
 A business without an established set of values will inevitably be faced, either as a group or individually, with questions of great import and ethical, moral or strategic dubitability and making such decisions ad hoc is completely understandable for a person, it's another story for a business. Furthermore, the more clarity one can have about what matters most to them in the pursuit of a project or in the grand project of life, the better equipped they will be to make difficult decisions in high-pressure situations with confidence and grace. 
 
